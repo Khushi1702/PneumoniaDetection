@@ -18,7 +18,7 @@ Pneumonia is a serious respiratory infection that affects millions worldwide, pa
 
 ## Dataset
 
-The dataset used is the publicly available **RSNA Pneumonia Detection Challenge** dataset from Kaggle. It contains 29,684 X-ray images, labeled as **Pneumonia** or **Normal**, and organized into training, validation, and test sets.
+The dataset used is the publicly available **[RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)** dataset from Kaggle. It contains 29,684 X-ray images, labeled as **Pneumonia** or **Normal**, and organized into training, validation, and test sets.
 
 Key files:
 - `stage_2_train_images/` - Training images
