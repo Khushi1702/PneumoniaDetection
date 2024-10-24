@@ -59,8 +59,3 @@ This project demonstrates the potential of transfer learning with VGG19 for earl
 3. Hwang, J., Yoo, S. K., & Han, D. (2021). A deep learning framework for pneumonia detection in chest X-ray images.  
 4. Zhang, X., Zhang, Y., & Sun, Y. (2022). Deep learning approaches for pneumonia detection: A comprehensive review.  
 5. Chowdhury, M. E. H., Rahman, M. M., & Alhazmi, A. (2021). COVID-19 and pneumonia detection in X-ray images using deep learning. 
-6. Lakhani, P., & Sundaram, B. (2017). Deep learning at chest radiography: Automated classification of pneumonia from X-ray images. 
-7. Dey, N., Ashour, A. S., & Ranjan, S. (2022). Efficient pneumonia detection using transfer learning with VGG19. 
-8. Mahmud, T., Kundu, S., & Molla, M. S. (2021). Pneumonia detection in X-ray images using convolutional neural networks. 
-9. Pathak, A., Singh, G., & Kumar, A. (2021). An ensemble deep learning model for pneumonia detection from chest X-rays. 
-10. Sajjad, M., Khan, M. A., & Bakar, A. A. (2022). Hybrid deep learning models for pneumonia detection in chest X-ray images.
